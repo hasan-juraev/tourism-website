@@ -1,0 +1,5 @@
+{
+    "require": {
+        "abstractapi/php-ip-geolocation": "^1.0"
+    }
+}
