@@ -1,5 +1,5 @@
 # Korea Tourism Website
-## Tourism Webiste
+## PHP, HTML, CSS, Javascript, MySQL
 
 ![Home](home.png)
 
