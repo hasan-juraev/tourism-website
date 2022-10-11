@@ -1,5 +1,5 @@
 # Korea Tourism Website
-## _The Last Markdown Editor, Ever_
+## Tourism Webiste
 
 ![Home](home.png)
 
